@@ -6,7 +6,7 @@ spec:
   source:
     contextDir: simple-pipeline
     git:
-      uri: "https://github.com/yourgituser/DO288-apps"
+      uri: "https://github.com/jairof002/DO288-apps"
       ref: "simple-pipeline"
   strategy:
     jenkinsPipelineStrategy:
